@@ -16,8 +16,8 @@ body {
 
 .cartao {
     background-color: #03070e;
-    width: 300px;
-    border: 3px solid #AEC3B0;
+    width: 450px;
+    border: 3px solid #205042;
     border-radius: 15px;
     overflow: hidden;
 }
@@ -32,7 +32,7 @@ body {
 
 .minhas-informacoes img{
     border-radius: 100px;
-    border: 3px solid #AEC3B0;
+    border: 3px solid #205042;
 }
 
 .minhas-informacoes .nome {
@@ -41,7 +41,7 @@ body {
 
 .minhas-informacoes .cargo {
     font-size: 20px;
-    color: #205042;
+    color: #AEC3B0;
 }
 
 /* */
@@ -76,7 +76,7 @@ body {
 }
 
 .cartao .abas .aba:hover {
-    background-color: #050D1A;
+    background-color: #0e2144;
 }
 
 .informacoes-abas .informacao{
