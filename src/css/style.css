@@ -10,7 +10,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 97vh;
+    min-height: auto;
     padding: 30px;
 }
 
